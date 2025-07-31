@@ -23,7 +23,7 @@ Click the "Open in Colab" badge above to run the notebook directly in your brows
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/language-switching.git
+git clone https://github.com/George-Okello/language-switching.git
 cd language-switching
 ```
 
